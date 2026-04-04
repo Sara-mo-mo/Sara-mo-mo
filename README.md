@@ -1,40 +1,41 @@
-# Hi there, I'm Sara! 
+# Hi there, I'm Sara!
 
-### Front-End Deveoper in the Making
-I'm a University Student at **NUB**, passionate about building sleek, modern, and user-friendly web interfaces.
+### Front-End Developer in the Making
+University Student at NUB, passionate about building sleek, modern, and user-friendly web interfaces.
 
 ---
 
-###  My Tech Stack
+### Tech Stack
 | Skill | Tools & Languages |
 | :--- | :--- |
-| **Languages** | HTML5, CSS3, JavaScript (ES6+), C++, Python |
-| **Frontend** | Responsive Design, UI/UX Aesthetics |
-| **Tools** | VS Code, Git & GitHub, Canva |
+| Languages | HTML5, CSS3, JavaScript (ES6+), C++, Python |
+| Frontend | Responsive Design, UI/UX Aesthetics |
+| Tools | VS Code, Git & GitHub, Canva |
 
 ---
 
-###  Current Projects
-- **Music Player Web App:** A Spotify-inspired player with synced lyrics and smooth audio controls. 🎧
-- **NUB Study Platform:** A comprehensive platform for university students (starting with Pharmacy!). 📚
+### Current Projects
+- Music Player Web App: A Spotify-inspired player with synced lyrics and smooth audio controls.
+- [NUB Study Platform](https://github.com/Sara-mo-mo/NUB-Study-Platform): A comprehensive platform for university students (Starting with Pharmacy!).
 
 ---
 
-###  My Creative Side
+### Creative Interests
 <details>
-<summary><b>Click to see my favorite aesthetics!</b></summary>
+<summary>Click to see my favorite aesthetics!</summary>
 <br>
 I love modern dark mode UIs and the artistic styles of:
--  Attack on Titan
--  JoJo’s Bizarre Adventure
--  Monster
+- Attack on Titan
+- JoJo’s Bizarre Adventure
+- Monster
 </details>
 
 ---
 
-###  Connect with me:
+### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-moustafa-soliman-374676302)
-[![GitHub Student Developer Pack](https://img.shields.io/badge/GitHub_Student-Developer_Pack-blue?style=for-the-badge&logo=github)](www.linkedin.com/in/sara-moustafa-7406b938a)
+[![GitHub Profile](https://img.shields.io/badge/My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara-mo-mo)
+[![Study Project](https://img.shields.io/badge/Study_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara-mo-mo/NUB-Study-Platform)
 
 ---
 
