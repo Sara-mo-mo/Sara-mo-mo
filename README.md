@@ -1,11 +1,11 @@
-# Hi there, I'm Sara! 👋 
+# Hi there, I'm Sara! 
 
-### 👩‍💻 Front-End Developer in the Making
+### Front-End Deveoper in the Making
 I'm a University Student at **NUB**, passionate about building sleek, modern, and user-friendly web interfaces.
 
 ---
 
-### 🛠 My Tech Stack
+###  My Tech Stack
 | Skill | Tools & Languages |
 | :--- | :--- |
 | **Languages** | HTML5, CSS3, JavaScript (ES6+), C++, Python |
@@ -14,25 +14,25 @@ I'm a University Student at **NUB**, passionate about building sleek, modern, an
 
 ---
 
-### 🎵 Current Projects
+###  Current Projects
 - **Music Player Web App:** A Spotify-inspired player with synced lyrics and smooth audio controls. 🎧
 - **NUB Study Platform:** A comprehensive platform for university students (starting with Pharmacy!). 📚
 
 ---
 
-### 🌟 My Creative Side
+###  My Creative Side
 <details>
 <summary><b>Click to see my favorite aesthetics!</b></summary>
 <br>
 I love modern dark mode UIs and the artistic styles of:
-- ⚔️ Attack on Titan
-- 🎭 JoJo’s Bizarre Adventure
-- 👁️ Monster
+-  Attack on Titan
+-  JoJo’s Bizarre Adventure
+-  Monster
 </details>
 
 ---
 
-### 📫 Connect with me:
+###  Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub Student Developer Pack](https://img.shields.io/badge/GitHub_Student-Developer_Pack-blue?style=for-the-badge&logo=github)](https://education.github.com/)
 
