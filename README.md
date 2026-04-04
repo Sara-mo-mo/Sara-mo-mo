@@ -33,7 +33,9 @@ I love modern dark mode UIs and the artistic styles of:
 ---
 
 ###  Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+sara-moustafa-7406b938a
+)
 [![GitHub Student Developer Pack](https://img.shields.io/badge/GitHub_Student-Developer_Pack-blue?style=for-the-badge&logo=github)](https://education.github.com/)
 
 ---
