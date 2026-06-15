@@ -20,18 +20,6 @@ University Student at NUB, passionate about building sleek, modern, and user-fri
 
 ---
 
-### Creative Interests
-<details>
-<summary>Click to see my favorite aesthetics!</summary>
-<br>
-I love modern dark mode UIs and the artistic styles of:
-- Attack on Titan
-- JoJo’s Bizarre Adventure
-- Monster
-</details>
-
----
-
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-moustafa-soliman-374676302)
 [![GitHub Profile](https://img.shields.io/badge/My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara-mo-mo)
