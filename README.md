@@ -16,7 +16,6 @@ University Student at NUB, passionate about building sleek, modern, and user-fri
 
 ### Current Projects
 - Music Player Web App: A Spotify-inspired player with synced lyrics and smooth audio controls.
-- [NUB Study Platform](https://github.com/Sara-mo-mo/NUB-Study-Platform): A comprehensive platform for university students (Starting with Pharmacy!).
 
 ---
 
