@@ -8,7 +8,7 @@ University Student at NUB, passionate about building sleek, modern, and user-fri
 ### Tech Stack
 | Skill | Tools & Languages |
 | :--- | :--- |
-| Languages | HTML5, CSS3, JavaScript (ES6+), C++, Python |
+| Languages | HTML5, CSS3, JavaScript (ES6+), C++, React |
 | Frontend | Responsive Design, UI/UX Aesthetics |
 | Tools | VS Code, Git & GitHub, Canva |
 
