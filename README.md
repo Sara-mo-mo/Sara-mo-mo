@@ -10,7 +10,7 @@ University Student at NUB, passionate about building sleek, modern, and user-fri
 | :--- | :--- |
 | Languages | HTML5, CSS3, JavaScript (ES6+), C++, React |
 | Frontend | Responsive Design, UI/UX Aesthetics |
-| Tools | VS Code, Git & GitHub, Canva |
+| Tools | VS Code, Git & GitHub, Canva, Figma |
 
 ---
 
